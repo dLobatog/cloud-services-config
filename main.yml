@@ -352,9 +352,6 @@ settings:
       - id: ''
         default: true
         title: 'General'
-      - id: hooks
-      - id: sources
-      - id: rbac
       - id: applications
     paths:
       - /settings
